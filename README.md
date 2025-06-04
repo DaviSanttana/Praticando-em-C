@@ -1,2 +1,2 @@
-﻿# Super Trunfo
+﻿# Praticando Logica com C
  
